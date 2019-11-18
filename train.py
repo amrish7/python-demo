@@ -124,7 +124,7 @@ def data_generator(tf_records, batch_size=1, repeats=1000, num_parallel_calls=12
 
 train_data = []
 eval_data = []
-batch_size = 1
+batch_size = 3
 
 for file in os.listdir(bal_train_folder):
   if file.endswith(".tfrecord"):
