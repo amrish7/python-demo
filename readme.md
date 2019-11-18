@@ -3,4 +3,4 @@
 
 #### Setup
 - run `pip install -r requirements.txt` to install all requirements
-- run `python`
+- run `python train.py`
