@@ -1,6 +1,7 @@
 # Generated frames
 resources/frames/*.*
 resources/datagen/
+.DS_Store
 
 # Weights and Biases
 wandb/
